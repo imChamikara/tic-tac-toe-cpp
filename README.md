@@ -80,12 +80,6 @@ The AI plays as **O** and:
 
 ---
 
-## 📸 Screenshots
-
-> You can add screenshots here later to demonstrate PvP mode, PvC mode, and the win/draw screen.
-
----
-
 ## ⚠️ Known Limitations
 
 - Windows-only (due to use of `windows.h` and `SetConsoleCursorPosition`)
